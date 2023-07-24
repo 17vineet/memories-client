@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e210e9b8.css",
+    "main.js": "/static/js/main.534e3e4f.js",
+    "static/media/memoriesLogo.png": "/static/media/memoriesLogo.3ceef8e5c872f9db5d9f.png",
+    "static/media/memoriesText.png": "/static/media/memoriesText.014b9f3f225b793616ee.png",
+    "index.html": "/index.html",
+    "main.e210e9b8.css.map": "/static/css/main.e210e9b8.css.map",
+    "main.534e3e4f.js.map": "/static/js/main.534e3e4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e210e9b8.css",
+    "static/js/main.534e3e4f.js"
+  ]
+}
